@@ -2,7 +2,7 @@
 /**
  * Write a description of class student here.
  *
- * @author (your name)
+ * @author (E.Tadesse)
  * @version (a version number or a date)
  */
 public class student
