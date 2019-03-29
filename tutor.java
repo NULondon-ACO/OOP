@@ -10,6 +10,7 @@ public class tutor
     // 实例变量 - 用你自己的变量替换下面的例子
     private int x;
      private int y;
+     private int z;
  
 
     /**
